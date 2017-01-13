@@ -1,7 +1,6 @@
 ##Laboratory Work 1.9.1.  
 
 Create new project called DemoProxy1. Add package com.brainacad.demoproxy1. 
-<br/>
 
 <ol>
 
